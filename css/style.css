@@ -2910,11 +2910,12 @@ h6 {
     margin-bottom: 0px; }
 
 .ab_widget p {
-  font-size: 14px;
-  line-height: 24px;
-  font-family: "Roboto", sans-serif;
-  color: #777777;
-  margin-bottom: 30px; }
+    font-size: large;
+    line-height: 34px;
+    font-family: "Roboto", sans-serif;
+    color: #949494;
+  margin-bottom: 30px; 
+  }
   .ab_widget p a {
     color: #766dff; }
   .ab_widget p + p {
